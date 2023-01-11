@@ -1,2 +1,1 @@
-# NoteApp
- 
+Just a  simple note app 
